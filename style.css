@@ -1,0 +1,48 @@
+header {
+	background-color: black;
+	border-radius: 10px;
+	margin: 2%;
+	color: white;
+	text-align: center;
+}
+
+.container {
+	margin: 2%;
+	padding: 5px;
+	background-color: #262626;
+	border-radius: 10px;
+	color: white;
+	display: flex;
+}
+
+.algo {
+	width: 100%;
+}
+
+.values {
+	width: 100%;
+	margin:10px;
+}
+
+button, input {
+	margin: 5px;
+	display: block;
+}
+
+
+.viewSchedule {
+	width: 100%;
+}
+
+td {
+	margin: 5px;
+	display: block;
+	border: 1px;
+}
+
+footer {
+	margin: auto;
+	text-align: center;
+}
+
+
